@@ -24,7 +24,7 @@ CryptoLive aims to provide users with an intuitive interface to monitor live cry
 - **Search Functionality**: Search for specific cryptocurrencies.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
-## Getting Started with Create React App
+## Getting Started with Create React App🎬
 Install Dependencies:
 #### `npm install`
 #### `npm i react-router-dom`
