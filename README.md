@@ -69,5 +69,5 @@ get.swatibhatt@gmail.com
 
 
 ##  ☞Contact Me 📩
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=undertale&logoColor=E71D29)](https://swati-bhatt.github.io/Portfolio/) 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=undertale&logoColor=E71D29)]([https://swati-bhatt.github.io/Portfolio/](https://swatibhatt.vercel.app/)) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatibhatt153)
